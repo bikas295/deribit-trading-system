@@ -308,16 +308,7 @@ Deribit <id> unsubscribe_all
 1. you are free to develop more feature on this, just refer the new [DERIBIT API DOCS](https://docs.deribit.com/)
 2. Test the API Call on [Deribit API Console](https://test.deribit.com/api_console)
 
-## Contribution
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
 ## License
 
 MIT License
 
-Copyright (c) 2025 Venkatesan M
